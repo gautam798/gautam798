@@ -43,6 +43,7 @@
 ### 📕 Latest Projects
 
 <!-- project-LIST:START -->
+- [One-Bloodline](https://github.com/gautam798/One_Bloodline)
 - [Silverwolf &amp; Pwersonal Voice Assitant](https://github.com/gautam798/silverwolf)
 - [Accounting SOftware: accounting made easy](https://github.com/gautam798/Account_software)
 - [Restaurant Management App](https://github.com/gautam798/restaurant_management_system)
